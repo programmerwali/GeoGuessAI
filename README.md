@@ -20,5 +20,4 @@ GeoVision AI is a SaaS  web application that allows users to upload any image an
 | Upload Page | Result Page |
 |-------------|-------------|
 | ![GeoGuess Screenshot 1](geoguess1.jpg) | ![GeoGuess Screenshot 2](geoguess2.jpg) |
-|  | ![GeoGuess Screenshot 4](geogeuss4.jpg) |
-| || ![GeoGuess Screenshot 4](geogeuss4.jpg) |
+| ![GeoGuess Screenshot 3](geoguess3.jpg) | ![GeoGuess Screenshot 4](geogeuss4.jpg) |
