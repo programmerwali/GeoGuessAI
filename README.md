@@ -11,7 +11,6 @@ GeoVision AI is a SaaS  web application that allows users to upload any image an
 - 📸 Upload any image and get results in seconds
 - 🧠 Uses state-of-the-art AI models (BLIP-2 / GPT-4 Vision + CLIP)
 - 🔍 Returns a caption and best guess of the location
-- 🖼️ Shows similar images or landmarks (optional integration)
 - ✨ Clean UI with responsive design
 
 ---
@@ -21,4 +20,5 @@ GeoVision AI is a SaaS  web application that allows users to upload any image an
 | Upload Page | Result Page |
 |-------------|-------------|
 | ![GeoGuess Screenshot 1](geoguess1.jpg) | ![GeoGuess Screenshot 2](geoguess2.jpg) |
-| ![GeoGuess Screenshot 3](geoguess3.jpg) | ![GeoGuess Screenshot 4](geogeuss4.jpg) |
+|  | ![GeoGuess Screenshot 4](geogeuss4.jpg) |
+| || ![GeoGuess Screenshot 4](geogeuss4.jpg) |
