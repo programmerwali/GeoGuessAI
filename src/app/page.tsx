@@ -1,7 +1,9 @@
+
 "use client";
 
 import { useState, useCallback, ChangeEvent, DragEvent, useEffect } from 'react';
 import NextImage from 'next/image';
+import Link from 'next/link'; // Added Link for pricing page
 import { analyzeImage, type AnalyzeImageOutput } from '@/ai/flows/analyze-image';
 import { Button } from '@/components/ui/button';
 import {
@@ -301,6 +303,11 @@ export default function GeoGuessAIPage() {
 
       <footer className="mt-12 text-center text-sm text-muted-foreground">
         <p>&copy; {new Date().getFullYear()} GeoGuessAI. An AI-powered image location finder.</p>
+        <p className="mt-1">
+          <Link href="/pricing" className="hover:underline text-primary font-medium">
+            View Pricing Plans
+          </Link>
+        </p>
         <p className="mt-1">
           Built with Next.js, Tailwind CSS, and Genkit.
         </p>
